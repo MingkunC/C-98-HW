@@ -1,0 +1,96 @@
+
+
+img
+{
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#bottom
+{
+  position: fixed;  
+}
+
+body
+{
+    background: linear-gradient(rgb(0, 89, 255) 0%, rgb(91, 146, 247) 20%,rgb(1, 159, 154) 40%, rgb(24, 213, 146) 60%, rgb(24, 213, 90) 80%, rgb(95, 224, 91) 100%);
+
+}
+
+h1
+{
+    font-family: Impact;
+    font-style: italic;
+    color: azure;
+}
+
+h4
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:aquamarine
+}
+
+h3
+{
+    font-family:'Times New Roman', Times, serif;
+    color: turquoise;
+}
+
+button
+{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 125px;
+    height: 40px;
+    font-size: 25px;
+    font-style: bold;
+    background: whitesmoke;
+    color:black;
+    border-radius: 50px;
+}
+
+#camera
+{
+    border-color: none ;
+}
+
+img
+{
+       border: 5px aquamarine;
+       border-style: double    ;
+
+       
+}
+
+div
+{
+    padding: 0.5%;
+}
+
+#img1
+{
+   margin-top:23px ;
+   width: 43%;
+   height: 1350px; 
+   float: left;
+   float: top;
+   padding: 0.5%;
+   
+}
+
+#img2
+{
+    height: 675px;
+    float: right;
+    padding: 0.5%;
+}
+
+#img3
+{
+    height: 675px;
+    float: right;
+    padding: 0.5%;
+}
+
+img:hover{border-width:10px; border-color: aqua; border-style: groove;}
+
+
+
